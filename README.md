@@ -1,4 +1,4 @@
-# "Multiverse" Jekyll Theme
+# Multiverse - Jekyll Theme
 
 A Jekyll version of the "Multiverse" theme by [HTML5 UP](https://html5up.net/).
 
