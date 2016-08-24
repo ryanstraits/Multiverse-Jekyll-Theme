@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Multiverse" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/multiverse.jpg "Multiverse Theme")
+![Multiverse Theme](images/multiverse.jpg "Multiverse Theme")
 
 # How to Use
 
